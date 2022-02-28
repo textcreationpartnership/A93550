@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to a petition to Oliver Cromwel, from the subscribers in Cumberland, which are called iustices and commissioners: also the examination of some friends at the assizes at York, the 17 of Iuly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93550</idno>
+            <idno type="STC">Wing S4659</idno>
+            <idno type="STC">Thomason E812_7</idno>
+            <idno type="STC">ESTC R207632</idno>
+            <idno type="EEBO-CITATION">99866671</idno>
+            <idno type="PROQUEST">99866671</idno>
+            <idno type="VID">167931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167931)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E812[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to a petition to Oliver Cromwel, from the subscribers in Cumberland, which are called iustices and commissioners: also the examination of some friends at the assizes at York, the 17 of Iuly.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber. [i.e., September] 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167931:1" rendition="simple:additions"/>
+            <p>Something in anſwer TO A PETITION TO Oliver Cromwel, From the Subſcribers IN CVMBERLAND, Which are called Iuſtices and Commiſsioners: Alſo the Exa<g ref="char:EOLhyphen"/>mination of ſome Friends at the Aſsizes at <hi>York,</hi> the 17 of <hi>Iuly.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167931:2"/>
+            <pb n="1" facs="tcp:167931:2"/>
+            <head>Something in anſwer to a PETITION TO Oliver Cromwel, From the Subſcribers in <hi>Cumberland,</hi> which are called Juſtices and Commiſsio<g ref="char:EOLhyphen"/>ners: Alſo the Examination of ſome friends at the Aſſizes at <hi>York,</hi> the 17. of <hi>Iuly.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">P</seg>Etition. <hi>You would have all able and Godly Mini<g ref="char:EOLhyphen"/>ſters as are already ſettled in this County, by the late Com<g ref="char:EOLhyphen"/>miſsioners, to have all fit encouragement.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All the godly Miniſters do not Petition to have encouragement from man, they are not made by the will of man; but all they who are made by the will of man, and ſettled by the Commiſſion of man, muſt be holden up with man, and encouraged by man, and mans Commiſſion, as you make it appear here, that your Teachers are not made by the will of God, for they which were made Miniſters by the will of God, as the Scripture declares, ſuffered by all ſuch as had their Commiſſion from man, the chief Prieſts, Scribes and Phariſees, and ſo they were ſuch that would thruſt that Miniſter out which was made by the will of God: So all you now, which would have the Miniſters which are ſettled, to have their Commiſſion from man, with the light of Chriſt is all that to be condemned eternally; this is the word of God which brings into his will, who ſends ſuch Labourers into his vineyard as he will, which are perſecuted, with ſuch as you are in your wills, and hold up ſuch as are made by the will of man.</p>
+            <pb n="2" facs="tcp:167931:3"/>
+            <p>Petition. <hi>And may not be neceſſitated to travel to</hi> London <hi>for their further approbation.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> A godly Miniſter need not go forth to be approved of men, for that which is approved of men in their own wills, is abomination to the Lord; and ſuch as Chriſt ſends forth freely, and God, they need not go to <hi>London</hi> to be approved of men, therefore let ſhame ſtrike you all in the faces, ye which are unſent of God and Chriſt, which now go to be appro<g ref="char:EOLhyphen"/>ved of men, and for ſhame never ſay you are God-like, or like God, or ſent forth by him; for who are made Miniſters by the will of God, ſtand againſt all you who are made Miniſters by the will of man; let all the Miniſters of God, the life of them all Judge you, and ſilence you, and ſtop your mouths for ever. And them that would you approve, I charge you in the preſence of the living God, to that in your conſciences I ſpeak, that with it you may ſee how you are approved with God, and whether you know the voice of Chriſt that ſpeaks where he is, and the living God: and beware, to the light in your conſciences I ſpeak, which Chriſt hath enlight<g ref="char:EOLhyphen"/>ned you withall, which will let you ſee you do not know God, and ſee God, as they who are of God, did and do; let their life Judge you: Firſt, are not you ſuch Doctors as are called of men Maſters, and have the choiceſt place in the Aſſemblies, and ſtand praying in the Synagogue? and do not you ſend forth ſuch as walk in the ſame ſteps of your ſelves, which our Lord Jeſus Chriſt cryed woe againſt as you may read, <hi>Mat.</hi> 23. and are you fit to ſend forth Teachers for Chriſt, and be in place of the Phariſees, and ſet them in the places which our Lord Jeſus Chriſt cryed woe againſt? and ye ſend out ſuch as ſeek for their gain from their Quarter, which the Lord ſent <hi>Iſaiah</hi> to cry againſt, <hi>Iſa.</hi> 56. and you ſend forth ſuch as bear rule by their means; which the Lord ſent <hi>Jeremiah</hi> to cry out againſt, that up<g ref="char:EOLhyphen"/>hold the horrible filthy thing committed in the Land; and ye ſend forth ſuch as are Hirelings, which the Lord ſent <hi>Micah</hi> to cry againſt; and ye ſend forth ſuch as go in the way of <hi>Cain,</hi> that envious, and after the error of <hi>Balaam,</hi> who are from the ſpirit which receives gifts and rewards, the wages of unrighteouſneſs, which is the end of both; ſo woe will be the end of all you, who ſet up ſuch who walk in the ſame way, from the light of Chriſt Jeſus within you, to the light of Chriſt Jeſus in you all I ſpeak, which is the light of men, that with it you may ſee all this, which is con<g ref="char:EOLhyphen"/>trary to it, and to the holy men of God which you act: which, if you love it, the right, it will condemn all your practices, and all theſe actions, and this muſt you own, your condemnation, before God and Chriſt is ſeen, and his Goſpel witneſſed, and to you that is the word of the Lord: So I warn you, and charge you in the preſence of the living God, to the light in your conſciences I ſpeak, leave off acting contrary to the light in your conſci<g ref="char:EOLhyphen"/>ences, which never changes, which will witneſs me eternally, and con<g ref="char:EOLhyphen"/>demn you which act contrary to it; for who act contrary to it, walks in the ſteps of thoſe which the Lord ſent his Prophets, his Son, and his Apo<g ref="char:EOLhyphen"/>ſtles to cry againſt; with the light of Chriſt you are ſeen, your ſteps, and ſuch as you ſend forth, to be in the ſteps and paths of them, as I ſaid before, which the Lord ſent his Prophets, his Son, and his Apoſtles to cry againſt. Let the life of all the holy men of God which gave forth the Scripture,
+<pb n="3" facs="tcp:167931:3"/>Judge you, and ſearch you, and the light will condemn you all who act contrary to it: I charge you, and ſo the light in your conſciences I ſpeak, to ſearch and ſee if you can witneſs the ſpirit and the life, which was before the Scripture was given forth, which made them Miniſters of it which ſpake them forth; and you which cannot witneſs this, are neither Miniſters your ſelves, nor are you fit to ſend forth others; which if you ſay that you have the light which was before the Scripture was given forth, the light in your conſciences will condemn you, to it I ſpeak, and that ſhall witneſs me and you condemned, and all ungodly deeds, and to you all this is the word of God.</p>
+            <p>Petition. <hi>And that all poſſible care may be taken for the ſupply of ſuch pla<g ref="char:EOLhyphen"/>ces as are deſtitute, of the neceſſary means of propagating the Goſpel, by way of Catechiſm or otherwiſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> A ſilly ſilly, ſhame ſhame, that ever you ſhould think men ſhould ſend forth Labourers into Gods Vineyard; here you would not have the Lord to rule his Vineyard himſelf, and that the care of all ſhould be caſt upon the Lord, and you would have people to caſt their care upon men: Oh, how contrary to the Scriptures you are! and here again you would have Labourers ſent forth by the will of man, and with the will of man; and oh how contrary to the Scriptures and the Apoſtles you are here again! <hi>Paul</hi> an Apoſtle of Jeſus Chriſt, not by the will of man, but by the will of God, and the Goſpel he preached, was not after man, for he neither re<g ref="char:EOLhyphen"/>ceived it of man, nor from man, but by the Revelation of Jeſus Chriſt, as you may read in the Scripture: So let his life Judge you all. Miniſters ſent by the will of man, and are holden up by man, ye know not the Goſpel, nor them that are made by the will of God; and here you ſhew that you are quite without the life, the power, the conditions the Apoſtles and Chriſt, and the Prophets were in, who put up Petitions to Magiſtrates for Miniſters to propagate the Goſpel, which was not received from man by Catechiſm or otherwiſe, you do not know how therefore; to the light in all your conſciences I ſpeak, which Chriſt Ieſus hath enlightned you withall, that with it you may ſee what you are, and where you are, and in whoſe ſteps, and with it you may ſee your ſins, and then in it to ſtand ſtill; here is the way to ſalvation, Chriſt Ieſus, from whence the light comes, here is the way to receive the Goſpel, and here is the Goſpel recei<g ref="char:EOLhyphen"/>ved, and here ſhall every one ſit under his own Vine, dwelling in the light which comes from Chriſt, who is the Vine; and abiding in the light, you abide in Chriſt, which is the Vine; but you that hate the light, whoſe deeds are evil, this light is your condemnation, and then you are ſuch as ſeek to man to propagate the Goſpel, which Goſpel is not of man, nor from man, but by the Revelation of Jeſus Chriſt; and you that would have the Goſpel propagated with Catechiſm; Oh hath not this talk been long, of propagating the Goſpel? and hath not this Catechiſm been, but where is the Goſpel eſtabliſhed yet amongſt you? Its the Fleece and main<g ref="char:EOLhyphen"/>tenance that you would have eſtabliſhed, it is looked at more then the Goſpel, you make hypocrites, men to ſeem what they are not; in the time of the Apoſtles, there were that came to be eſtabliſhed in the Goſpel; and you Teachers and People hath your Goſpel yet to propagate by Catechiſm
+<pb n="4" facs="tcp:167931:4"/>and Petitions: Oh abominable, with the light which Ieſus Chriſt hath enlightned, with it are you all to be condemned from the Goſpel; for none knows it but he that owns the light, and receives it, which comes from Chriſt, and who walks in it, receives Chriſt from whence it comes; and here the children of the light are different from the children of dark<g ref="char:EOLhyphen"/>neſs, and the Miniſters of the Goſpel, and of God, which are made by the will of God, from all thoſe which are made by the will of man, and ſo for ſhame, let ſhame ſtrike you all in the face, to talk of having the Goſ<g ref="char:EOLhyphen"/>pel propagated by a Catechiſm; you are not ſent of God nor of Chriſt, nor made by the will of God, and this I charge upon you in the preſence of the living God; therefore give over acting in that nature in your own wills, contrary to the light in your own wills, and ſilence all fleſh before the Lord, let all fleſh be ſilent before him, and lay your hands upon your mouths, and own your ſhame and ignorance; for them that live in it, and walk in it, are with the light to be condemned, and that muſt you own be<g ref="char:EOLhyphen"/>fore you come to know the Goſpel; and to you this is the word of God, to the light in all your conſciences I ſpeak, which will let you ſee you are not come to repentance, and that the entrance is not made into the inhe<g ref="char:EOLhyphen"/>ritance, which never fades away, where nothing that defiles ſhall enter.</p>
+            <p>Petition. <hi>And that ſome perſons within the four Northern Counties may be impowred, and all matters pertinent to the advancement of Religion, in power and purity.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If you would own this which you ſpeak of your ſelves, or were in it, in the pure Religion, which keeps unſpotted of the world, and in purity, then you would not ſeek without, to men, to hold up purity and pure Re<g ref="char:EOLhyphen"/>ligion, which keeps unſpotted of the world, but you manifeſt your ſelves, that your power is without you, and ſo your Religion is without you, which muſt be upheld by outward powers, and purity is without you, and they that were kept in purity in the pure religion, the power was within them of God, working mightily, as the Apoſtle witneſſed: ſo here you differ again from him, and the Apoſtle, and here again let the life Judge you: Oh when will men return unto the Lord, and ſeek unto the Lord their maker, to the light in all your conſciences I ſpeak, that with it you may ſee what you are going after, and with it your minds may be turned to God, and you that turn from it, turn from God, and ſet up man, as here in your Petition you make it manifeſt, to your ſhame and folly, that truth might appear, which would have Religion ſet up by perſons which God reſpects not; ſo here you are looking forth, and are the fools whoſe eyes are abroad, but the wiſe mans eye is in his head, and he that is here in the pure Religi<g ref="char:EOLhyphen"/>on, doth not go to an outward Magiſtrate for to uphold it, for the Law was not made for the righteous, but for lyars and tranſgreſſors, and that is good, we own in its place; and you that petition to men to have ſupply from man, you are they that impriſon and perſecute the ſervants of the moſt high God, and though he hath freely ſent them to declare the way of ſalvation, as eight there in your Dungeon at <hi>Carlile,</hi> for ſpeaking the word of the Lord; and is this now your colour new, to Petition to men, who are in your wills, and have ſuch as are made by the will of man; and ſo here again you would not have the Lord to be Lord of his Vineyard, but them
+<pb n="5" facs="tcp:167931:4"/>whom he ſends freely you impriſon, but ſuch Teachers as are according to your own fancies and luſts, you would ſet up heaps of Teachers, and ſo are the itching ears, which are turned from the light of Chriſt, which he hath enlightned you withal, and would let you ſee him, and manifeſt him which would bring you from all Teachers, to witneſs the unchangable Prieſt, and to condemn all the changable, which are made by the will of man; to the light in all your conſciences I ſpeak, which ſhall witneſs me eternal<g ref="char:EOLhyphen"/>ly; but the Lord God is coming to thunder, to threſh down all that which man hath ſet up, and you in your own wills, is to be condemned with the light, which is contrary to mans will, and contrary to that which man ſets up, and man cannot propagate the Goſpel with all his Catechiſm: where did ever the Apoſtles put up any ſuch Petition, or ſpeak any ſuch words? Oh, that men ſhould ever take the Goſpel for their cloak, and think that ſhould be held up by man, and propagated that which came not by the will of man, for all Scripture being given forth by the holy Ghoſt, it came not by the will of man, nor Propheſie of it; therefore you who live in your wills cannot underſtand it, nor all you who are made Miniſters by the will of man: Therefore I charge you all in the preſence of the living God, be ſilent, and wait in the light, which is contrary to the will, that with it the Scriptures may be approved, with the ſame that gave them forth, then you will never ſeek to man to propagte the Goſpel, but wait upon the Lord Jeſus Chriſt, as they did who received it of him, whoſe Kingdom was not of the world, but here it is manifeſt what Kingdom you are of.</p>
+            <p>Petition. <hi>And that ſome preſent courſe may be preſcribed and countenanced for the inforcing the Payment of Tythes and other dues to Miniſters, to which the people in theſe parts are extreamly averſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whereas you would have ſome preſent courſe preſcribed, coun<g ref="char:EOLhyphen"/>tenanced for the inforcing the payment of Tythes: Friends, here openly you have your folly made manifeſt, for you were ſpeaking before of pro<g ref="char:EOLhyphen"/>pagating the Goſpel, and now you are propagating Tythes, and the firſt Prieſthood, and would have ſome ſpeedy courſe preſcribed and counte<g ref="char:EOLhyphen"/>nanced for inforcing the payment of Tythes; here you ſhew, that you are they that deny Chriſt Ieſus come in the fleſh, for they held up Tythes, did not believe that he was come in the fleſh, and you would hold up the firſt Prieſthood, which received Tythes, and now under a colour would have the Goſpel propagated, and have Tythes propagated: ſee what confuſed ſtuff is this, read but <hi>Hebrews</hi> 7. and ſee how you differ from the Mi<g ref="char:EOLhyphen"/>niſters who were made by the wil of God and of Chriſt, which preached the unchangable Prieſthood Chriſt Jeſus, and ſaid the Prieſthood was chang<g ref="char:EOLhyphen"/>ed that received Tythes and the Law was changed alſo, and now Tithes you would have propagated, then you muſt propagate the firſt Prieſthood, then you muſt have a ſtore-houſe, as you may read in <hi>Malachi,</hi> and the books of <hi>Moſes,</hi> and let all the widows, fatherleſs, and ſtrangers come within the Prieſts gates, that they Miniſter it to them, which receive Tythes out of the ſtore-houſe, that there be no beggar in <hi>England,</hi> as there was no beggar in Iſrael, and then you act according to the figure, the Prieſts, a figure of the everlaſting Prieſt, the changable of the unchangable, the ſtore-houſe of the everlaſting Treaſure, which the everlaſting Prieſt Miniſters
+<pb n="6" facs="tcp:167931:5"/>out of, and ſo deny the everlaſting Prieſt to be come in the fleſh; and as ſaying the people in theſe parts are extreamly averſe, the people which dwell in the light which Chriſt Jeſus hath enlightned them withall, which brings them to witneſs this unchangable Prieſt, and are of him the royall Prieſthood, they witneſs God alone their Teacher: we cannot hold up the changable Prieſthood that receives Tythes, but we witneſs a change from them, for we witneſs the unchangable, therefore we deny them; Never<g ref="char:EOLhyphen"/>theleſs, the Prieſts that take Tythes, they have no ſtore-houſe for the fa<g ref="char:EOLhyphen"/>therleſs, the widows and ſtrangers to come within their gates, and be fil<g ref="char:EOLhyphen"/>led, therefore you may ſee the bleſſings of God not among you, nor upon you, therefore you put up Petitions to man, who are turned from the Lord, and woe unto them that take counſel, and not at me, ſaith the Lord, or of<g ref="char:EOLhyphen"/>fers up any ſacrifice but unto the Lord; for if you will have Tythes, you muſt ofter up ſacrifice, for the people cannot hold up the changable Prieſthood, which witneſſeth the unchangable, and ſo you that put up Pe<g ref="char:EOLhyphen"/>titions to hold up Tythes, you are in your own wills, and would hold up the changable, and they that own your Petition, are ſuch guides that have eyes and ſee not; but with the light of Chriſt which he hath enlightned every one withall, are all ſuch to be condemned with the light, therefore the word of the Lord God to you who witneſs the Goſpel, and preaches it, doth not preach up Tythes, nor the firſt Prieſthood, nor the Temple, nor the Altar, nor the old ſtore-houſe; though the Miniſtry of condemna<g ref="char:EOLhyphen"/>tion was glorious, the Miniſtry of the Spirit exceeds in glory, and with the unchangable the changable is denyed; now if ye ſay that Chriſt ſaid ye pay Tythe of Mint, and Anniſe, and Cummin, and theſe things ought you to have done; its true, Chriſt ſaid theſe things ought you to have done, but he cryed woe unto them, and told them they were blind, and ſaid they neglected Truth, and Judgement, and Mercy, for had they been in the faith, they would have ſeen him who was the end of Tythe of Mint, and Anniſe, and Cummin, the unchangable Prieſt; for they which preached him, and went up and down in the Synagouges, did not preach up Tythe, and An<g ref="char:EOLhyphen"/>niſe, and Cummin, and the firſt Prieſthood, though Chriſt in that time did witneſs the figure in its place, and ſaid, theſe things ought ye to have done, but when he was ſacrificed up, and was preached, the other was denyed; now if you ſay give <hi>Caeſar</hi> his due, and by this ye cloak, that Prieſts may have tythes, and people pay tythes; the anſwer is, <hi>Caeſar</hi> ſhall have his due in his place, but this ſhall not hold up the figure before Chriſt came in the fleſh, the firſt Prieſthood to paying tythes, and ſo the figures I witneſs in its place, and I witneſs Chriſt Jeſus the end of the figures, the unchangable Prieſt, and ſo I deny the figure, and the changable Prieſthood; ſo if we ſuffer our goods to be ſpoiled joyfully, for witneſſing the unchangable Prieſt, and denying the changable that takes tythes, its for Chriſts ſake, as ſome now in <hi>Cumberland</hi> and <hi>Weſtmerland</hi> are brought before Rulers, be<g ref="char:EOLhyphen"/>cauſe they cannot pay the Prieſts tythes, and ſome again have their goods deſtrained out of their houſes, becauſe they cannot pay the Prieſt tythes, as many may witneſs it: Oh, the havock that is made of people with this generation of Prieſts, and the Juſtices that hold them up, at Courts and Seſſions, troubling, vexing poor people about tythes, who witneſs the
+<pb n="7" facs="tcp:167931:5"/>unchangable Prieſt, and denying the changable, and ſo many are brought to ſuffer the ſpoiling of the goods joyfully; there was a member of a Kirk, which turned Preacher, and he was a cauſe of ones being caſt into priſon, becauſe he could not pay him tythes, and deny Chriſt Jeſus the unchangable Prieſt, nor hold up the firſt; for ſhame never talk of propa<g ref="char:EOLhyphen"/>gating the Goſpel, or mention the Goſpel; where did ever any of the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel, or the Apoſtles ſue any at Law for tythes, and if they could not, to have Bayliffs to come to fetch away their goods, their kettles, or their pots, and caſt poor people into priſon? Oh ſhame, ſhame, here let the life of the Apoſtles Judge you all, who profeſs your ſelves Mini<g ref="char:EOLhyphen"/>ſters, and put up Petitions for propagating and ſetting up ſuch, and ſay they are godly, and here you make your ſelves manifeſt, that you are no Miniſters of the Goſpel, here the lye is found in your mouth, to ſue men for tythes, to deſtrain for tythes, and to put up Petitions for tythes, and ſay you are Miniſters of the Goſpel; here your fruits do declare it what you are, for the Miniſters of the Goſpel denyed the firſt Prieſthood, and never ſued any man at the Law for tythes, but the Miniſters of the Goſpel are aſhamed of you, for all who own Chriſt Jeſus the unchangable Prieſt, deny tythes, and the firſt Prieſthood, and do not ſue any man at the Law, but are brought to yea and nay in their communications; here you may ſee how far you are from the doctrine of Chriſt, which the Apoſtles walked in; or ſhew me any example that ever the Apoſtles practiſed any ſuch thing, or any of them putting up Petitions, or any of them had tythes, or any of them ſued ever any at the Law for tythes, or the Apoſtles ever had Bayliffs to deſtrain goods for tythes for them of the people, their pots, their kettles, and their Pewter, or bedding, or their horſes, or cattel, or threw them into priſon for tythes: Oh havock, havock, what havock do you make of the Church, which witneſs the unchangable Prieſt; and now if you cannot find one example among the Apoſtles, which acted theſe practiſes which are acted among the Prieſts of <hi>England,</hi> let their life Judge you, and their doctrine, to be evil beaſts, which mind earthly things, who ſerve not the Lord Ieſus Chriſt, but their own bellies, and lay their hands upon their mouths for ſhame, and never mention it more, that they are Miniſters of the Goſpel, for with the light which Chriſt Ieſus hath en<g ref="char:EOLhyphen"/>lightned you withal, are you all ſeen and condemned, and this you muſt own before ever you own the Goſpel, for they which preach the Goſpel, bring glad tydings, and they do not make the Goſpel chargable or bur<g ref="char:EOLhyphen"/>thenſome, nor look at an outward power, to have ſet benefits or tythes; nay, they firſt plant a Vineyard before they eat of the fruit of it, and they preach the Goſpel before they live of it, and ſuch deny the firſt Prieſthood that receiveth tythes, and doth not preach it up, and doth not covet any mans ſilver, or gold, or apparel, which preach the Goſpel; and here you that ſue men at the Law, and ſtrain their goods, and caſt them into pri<g ref="char:EOLhyphen"/>ſon, doth covet both their ſilver and their goods, ſo there you are condemn<g ref="char:EOLhyphen"/>ed with the life of the Apoſtles, and to be out of their doctrine, and with the life Iudged, and with the light condemned, and unto you this is the word of God, unto the light in your conſciences I ſpeak, which have put up this Petition, which will let you ſee that your eye is abroad, which is the fools,
+<pb n="8" facs="tcp:167931:6"/>which if you love it, it will guide your minds to Chriſt, and here is every ones Teacher, the light, and every ones way to Chriſt the Saviour, and every ones way out of the world, which leads them into the world where there is no end; and you that would have tythes, and a ſpeedy courſe for keeping them up, becauſe God hath raiſed up the light in the hearts of people, and cauſed the light to ſhine out of darkneſs in the face of Ieſus, from whom the light comes, and with the light they do confeſs Chriſt the unchangable Prieſt, and deny the changable Prieſt, that receives tythes; for you that hold up tythes, and the firſt Prieſthood, are in the Miniſtry of condemnation, and not in the Miniſtry of the Spirit, and to you this is the word of the Lord.</p>
+            <p>And you that look for Teachers, are ſuch as are turned from the light, and are ſuch as would not have Chriſt to raign over you, which are erred from the light, for who turns from the light, are in the ſelf-righteouſneſs, but who walks in the light, with the light ſuch are condemned, and it brings to witneſs Chriſt the Miniſter and Biſhop of the ſoul, and denies all who are made Miniſters by the will of man in that nature, to the light they are to be condemned, they are keepers in time, your Miniſtry of man, made by the will of man, and hath mens perſons in admiration, be<g ref="char:EOLhyphen"/>cauſe of advantage, which is erred from the light; the other which is made by the will of God, manifeſt to that of God in every mans conſcience, and goes to Miniſter to that in the perſon, and to the bringing it up out of that time unto God, and with that which leads out of time, condemns that which keeps in time, and to you this is the word of God.</p>
+            <p>To you that put up Petitions to the powers of the earth, for a ſet main<g ref="char:EOLhyphen"/>tenance for your Teachers and tythes, can you not here be aſhamed? are you a Vineyard, and doth no fruit grow in you? he that planted gathers no fruit; you may be aſhamed, woe unto you Vineyard dreſſers, muſt you now put up Petitions to the Powers of the earth, and a cloak to ſue ſuch at the Law, as you perſecute, which are not of you? Oh ſhame, you Teachers and people, will not your Vineyard maintain you? now it is manifeſt what you have been ſowing all this while, you have talked, and told people of ſowing ſpiritual things, and ſaid it was the leaſt if they Miniſtred unto you carnal things, and now is there not carnal things to be reaped, and now you put up Petitions to the Powers of the earth, to get maintenance of them that are not of you, whom you do no work for, who hath not hired you, let ſhame ſtrike you, ye Vineyard dreſſers, in the face, and you may be aſhamed of your works.</p>
+         </div>
+         <div type="trial_account">
+            <pb n="9" facs="tcp:167931:6"/>
+            <head>The Examination of <hi>Boſwel Middle<g ref="char:EOLhyphen"/>ton,</hi> before the Iudge of the Aſ<g ref="char:EOLhyphen"/>ſize, ſo called, at <hi>York,</hi> the 17. of <hi>Iuly,</hi> 1654.</head>
+            <sp>
+               <speaker>IVdge Nudigate,</speaker>
+               <p>
+                  <hi>Hold up thy hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſwell Mid.</speaker>
+               <p>I deny the Ceremony.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk read,</speaker>
+               <p>
+                  <hi>Whereas Boſwel Middleton, Cordinar, in the City of</hi> York, <hi>having ma<g ref="char:EOLhyphen"/>liciouſly and contemptuouſly diſturbed Mr.</hi> Edward Bowles <hi>Miniſter, when he was preaching in</hi> All Saints <hi>Church, ſaying, Thou art a Miniſter of Antichriſt, and alſo the Congregation, and troubled and vexed the ſaid Preacher.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>What ſayeſt thou, guilty or not guilty?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſwell,</speaker>
+               <p>The words which I ſpoke to him, was the word of the Lord, but maliciouſly I deny; then they read over the Indictment again: and I was moved to ſpeak theſe words: Iudge righteous Iudgement, and do Iuſtice, the Lord requires it of you.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>Didſt thou ſpeak theſe words yea or nay?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſwel,</speaker>
+               <p>A miniſter of Anti-chriſt I witneſs him to be.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>Stood up, and ſaid, let us reaſon together, what is Anti-chriſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſwell,</speaker>
+               <p>He that practiſeth and holdeth up thoſe things which Ieſus Chriſt witneſſeth againſt, is Antichriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>What things are thoſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſwell,</speaker>
+               <p>Such as are called of men Maſters, and go in Long robes, and have the chiefeſt places in the Aſſemblies, Salutations in the Market places, and ſo forth read, to that in thy conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>Said I was mad, and ſpoke non-ſenſe, and ſat him down, what ſayeſt thou, wilt thou confeſs thou diſturbedſt the Church, yea or no?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſ.</speaker>
+               <p>The Saints Church is in God the Father, our Lord Ieſus Chriſt, and in this Church all may ſpeak one by one, and there peace cannot be broken, but your Church I deny.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>Wilt thou own the Indictment altogether as it lies?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſ.</speaker>
+               <p>The words which were ſpoken by me I own, and witneſs It was the word of the Lord, but malice and the reſt I deny, it is your own: A Miniſter of Anti-chriſt he is, and I ſhall witneſs it with my blood, if thereto I be re<g ref="char:EOLhyphen"/>quired.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>It were well if you were grounded upon the Scriptures; and not ſuch youths to diſturb the Miniſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſ.</speaker>
+               <p>Give one example in all the Scriptures where ever the Miniſters of Ieſus Chriſt were defended with a carnal Law, yea or nay, but they were all ſilent:
+<pb n="10" facs="tcp:167931:7"/>then they called a Iury, and ſwore them againſt me; and I ſpoke theſe words, Friends, all you that ſwear, you are out of the doctrine of Chriſt, who ſaith, <hi>ſwear not at all;</hi> then I told them, I have ſuffered the wages of the Law, and layen in priſon near ſix moneths.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge,</speaker>
+               <p>
+                  <hi>That is thy advantage, but here is another advantage, art thou ſorry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boſw.</speaker>
+               <p>I ſtand to the Lord, If I have tranſgreſſed the Law, here is my body at the Lords ſervice, inflict what puniſhment on it you can, I have cleared my conſcience, and am willing to ſuffer, and here the Scripture is fulfilled on you, who make offenders for a word.</p>
+            </sp>
+         </div>
+         <div type="trial_account">
+            <head>The Examination of <hi>Henry Fewler,</hi> before the Iudge of Aſſize, ſo called.</head>
+            <sp>
+               <speaker>IVſtice Dickinſon,</speaker>
+               <p>
+                  <hi>Have you brought Sureties for your good behaviour?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Henry,</speaker>
+               <p>I am bound to good behaviour by the power of God.</p>
+            </sp>
+            <stage>Dickinſon, <hi>Spoke to the Iudge, and he would not hear him, but waved it; then they drew an Indictment, which is as followeth; whereas</hi> Henry Fewler, <hi>in the Pariſh of Saint</hi> Lawrence, <hi>did maliciouſly diſturb, and falſely accuſe</hi> Thomas Dickinſon, <hi>Iuſtice of the Peace, ſaying, thou art a Perſecuter of the Saints of the moſt high God.</hi>
+            </stage>
+            <sp>
+               <speaker>Queſt. </speaker>
+               <p>
+                  <hi>what ſay you, are you guilty of this Indictment, yea or no?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Anſ.</hi> 
+               </speaker>
+               <p>Maliciouſly I deny, I have no malice to him nor no man, more then to a child in a Cradle, neither did I know that I ſhould ſpeak to thee, till I ſaw thy face: And then I was moved to ſpeak to thee by the power of God, but hadſt thou not been guilty, thou needſt not have been angry or diſturbed, hadſt thou not had a perſecuting ſpirit, thou wouldſt not have ſent me to priſon for ſpeaking a word to thy conſcience; I did not affront thee, neither follow thee, I was within my own door ſtead, and for the man that was perſecured, it was upon a falſe oath, as I can let the Iudge underſtand.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge, </speaker>
+               <p>
+                  <hi>Come friend, art thou ſorry for diſturbing the Magiſtrate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p>I am not ſorry for doing the work of the Lord, he that doth the com<g ref="char:EOLhyphen"/>mand of the Lord, need not be ſorry.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge, </speaker>
+               <p>
+                  <hi>If you will acknowledge you are ſorry, I will ſet you free here.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Anſ</hi> 
+               </speaker>
+               <p>I am not ſorry; </p>
+            </sp>
+            <stage>then the Court broke up.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
